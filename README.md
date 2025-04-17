@@ -15,11 +15,11 @@ To deploy this project run
 
 3. **Run the app**
 
-*for Windows:*
-- python todo_gui.py
+       For Windows:
+       - python todo_gui.py
 
-*for MacOs & Linux:*
-- python3 todo_gui.py
+       For MacOs & Linux:
+       - python3 todo_gui.py
 
 
 ## Features
