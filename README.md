@@ -14,6 +14,7 @@ To deploy this project run
 - pip install FreeSimpleGUI
 
 3. **Run the app**
+
 *for Windows:*
 - python todo_gui.py
 
