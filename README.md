@@ -39,9 +39,9 @@ To deploy this project run
 
 ## Tech Stack
 
-**Python** 
+1. **Python** 
 
-**FreeSimpleGUI** for building the GUI
+2. **FreeSimpleGUI** for building the GUI
 
 
 ## Screenshots
