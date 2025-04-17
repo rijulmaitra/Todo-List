@@ -46,7 +46,8 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshort](<Screenshot 2025-04-17 at 18.24.56.png>)
+![App Screenshort](image.png)
+
 
 ## Author
 
