@@ -11,15 +11,16 @@ To deploy this project run
 1. **Clone or download the repo.**
 
 2. **Install dependencies.** 
-- pip install FreeSimpleGUI
+   - pip install FreeSimpleGUI
 
 3. **Run the app**
 
-       For Windows:
-       - python todo_gui.py
 
-       For MacOs & Linux:
-       - python3 todo_gui.py
+   For Windows:
+          - python todo_gui.py
+
+   For MacOs & Linux:
+          - python3 todo_gui.py
 
 
 ## Features
